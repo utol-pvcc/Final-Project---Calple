@@ -8,8 +8,15 @@
 		<li>
 			<a href="Arithmetic.py">Arithmetic Document</a>
 		</li>
-		<li>Prolonged hours staring at the screen</li>
-		<li>Sitting for a long time</li>
+		<li>
+			<a href="Geometry.py">Geometry Document</a>
+		</li>
+		<li>
+			<a href="Conversion.py">Conversion Document</a>
+		</li>
+  		<li>
+			<a href="Main.py">Main Document</a>
+		</li>
 </ul>
   
 </body>
