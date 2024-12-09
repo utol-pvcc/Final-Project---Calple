@@ -15,7 +15,10 @@
 			<a href="Conversion.py">Conversion Document</a>
 		</li>
   		<li>
-			<a href="Main.py">Main Document</a>
+			<a href="main.py">Main Document</a>
+		</li>
+		<li>
+			<a href="READ FIRST.txt">READ FIRST</a>
 		</li>
 </ul>
   
