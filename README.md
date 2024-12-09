@@ -18,7 +18,7 @@
 			<a href="main.py">Main Document</a>
 		</li>
 		<li>
-			<a href="READ FIRST.txt">READ FIRST</a>
+			<a href="Read First.txt">READ FIRST</a>
 		</li>
 </ul>
   
