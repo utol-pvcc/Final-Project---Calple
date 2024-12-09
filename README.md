@@ -2,6 +2,7 @@
 	<a href="Design Model - Calple_Rough.pdf">Press here to see the: Design Document</a>
 
  <br>
+ 	<a href="Design Document__Update08_12_24.pdf">Press here tosee the: Updated Design Document</a>
 <a href="Calculator">Press here to see the: Calculator Field</a>
 
 <ul>
