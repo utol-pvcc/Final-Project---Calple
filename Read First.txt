@@ -1,0 +1,9 @@
+Read First
+To run properly the program you must have the next documents:
+	Arithmetic
+	Conversion
+	Geometry
+	Main
+
+All of them must be on the same directory, and the document Main is the one that you should compile if you want to see a basic calculator that shows everything on text.
+
